@@ -2,6 +2,8 @@
 
 * initial commmit 19JUN2022
 
+* updated models to save every 5 epochs, removed optimizer and used single nn model for deliverable 3. 22JUN2022
+
 ## Background
 
 The AlphabetSoup organization wants to continue to fund various charities. In order to make the best decision of which charities to continue funding, a list of charities with their various stats was supplied to determine which are most successful.
